@@ -46,11 +46,6 @@ const cardToInsert = 'Карточка-6';
 cards[cards.length] = 'Карточка-6';
 console.log(cards);
 
-
-// cars[cars.length - 1] = "McLaren";
-// console.log(cars);
-
-
 // 5
 
  
